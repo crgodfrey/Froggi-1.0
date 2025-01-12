@@ -3,10 +3,12 @@
 ![GitHub License](https://img.shields.io/github/license/allliver/froggi)  
 **F**lexible **R**eal-time **O**verlay for **G**ame **G**raphics and **I**nformation   (Froggi 1.0)
 Is a portable self-hosted scoreboard overlay software that aims to provide an easy-to-use overlay for sports broadcasting!
-> [!NOTE]
-> Froggi 1.0 is preserved under a different developer account but by the same team  of original develepors.
-> [!WARNING]
-> Froggi 1.0 is no longer maintained in favor of Froggi 2.0, it features a complete frontend/backend rewrite and is released under the MIT license. Use older versions with caution, as they may not follow modern security practices. This software is provided 'as is,' and by using Froggi 1.0, you accept the associated risks. See [froggi 2.0](https://github.com/obfedder/Froggi/tree/dev)
+> [!NOTE]  
+> Froggi 1.0 is preserved under a different developer account but by the same team of original developers.  
+
+> [!WARNING]  
+> Froggi 1.0 is no longer maintained in favor of Froggi 2.0, which features a complete frontend/backend rewrite and is released under the MIT license. Use older versions with caution, as they may not follow modern security practices. This software is provided 'as is,' and by using Froggi 1.0, you accept the associated risks. See [Froggi 2.0](https://github.com/obfedder/Froggi/tree/dev).
+
 
 # Usage
 When you run the binary for the first time it should generate all the files and folders it needs  
